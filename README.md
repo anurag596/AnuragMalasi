@@ -34,11 +34,6 @@ I'm a software developer who thrives on crafting robust solutions that perform s
 </div>
 
 
-## Highlights & Projects
-
-- **Project Cosmos:** A journey into building innovative tools with a touch of magic.
-- **Tech Stories:** Assembling insights, tutorials, and narrative snapshots of my coding adventures.
-- **Creative Code Art:** Merging the visual with the technical to create something that’s not just functional, but also beautiful.
 
 
 ## Let’s Connect
